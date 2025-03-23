@@ -1,0 +1,3 @@
+TIMEZONE=UTC
+30 9 * * * cd ~/SoundchartsAPI-Bot && git pull && docker compose up --build -d
+

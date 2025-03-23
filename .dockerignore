@@ -1,0 +1,4 @@
+.venv
+*.csv
+*.sqlite
+http_cache.sqlite

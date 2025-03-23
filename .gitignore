@@ -1,0 +1,14 @@
+*.csv
+.venv/
+.idea/
+http_cache.sqlite
+*.sqlite
+output/*
+*.pyc
+logs/*.log
+logs/quota.txt
+**/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
